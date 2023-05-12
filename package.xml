@@ -23,7 +23,7 @@
       <tag>geometry nodes</tag>
       <tag>scripting</tag>
 
-      <freecadmin>0.21.0</freecadmin>
+      <freecadmin>0.20.1</freecadmin>
       <depend>awkward</depend>
       <depend>blinker</depend>
       <depend>numpy</depend>
